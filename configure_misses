@@ -1,0 +1,4 @@
+Configure miss: procfs.h usability
+Configure miss: procfs.h presence
+Configure miss: procfs.h
+Configure miss: optional package libxfce4panel-2.0 >= 4.12.0
